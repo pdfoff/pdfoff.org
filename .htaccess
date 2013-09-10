@@ -1,3 +1,6 @@
+# Increase file upload limit
+php_value upload_max_filesize 20M
+
 # Apache Configuration File
 # https://github.com/h5bp/server-configs-apache
 
